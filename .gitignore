@@ -3,5 +3,9 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+/.idea
 /.idea/.gitignore
 /.idea/vcs.xml
+/.idea/learning.iml
+/.idea/misc.xml
+/.idea/modules.xml
